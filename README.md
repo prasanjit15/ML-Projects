@@ -18,4 +18,17 @@ The list of the projects are below:
 
 
 
-## 2. 
+## 2. Generify
+       This is a machine learning model to classify songs as being either 'Hip-Hop' or 'Rock'. 
+       +-----------------+
+       | Steps followed: |
+       +-----------------+
+       
+       - First, We load the metadata about our tracks alongside the track metrics compiled by The Echo Nest.
+       - Then, we perform PCA on our data.
+       - After that we train a Decision Tree Classifier to classify the genres.
+       - Then we train a Logistic Regression so as to compare which classifier performs better.
+       - Now, we balance our data for a greater performance.
+       - Finall we used Cross-Validation to evaluate our models.
+       
+ **( Model used: Decision tree Classifier and Logistic Regression )**        
