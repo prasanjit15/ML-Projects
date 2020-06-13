@@ -29,6 +29,6 @@ The list of the projects are below:
        - After that we train a Decision Tree Classifier to classify the genres.
        - Then we train a Logistic Regression so as to compare which classifier performs better.
        - Now, we balance our data for a greater performance.
-       - Finall we used Cross-Validation to evaluate our models.
+       - Finally, we used Cross-Validation to evaluate our models.
        
  **( Model used: Decision tree Classifier and Logistic Regression )**        
